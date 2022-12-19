@@ -14,7 +14,7 @@
 </div>
 
 ## [QR Code Generator](https://qrcodegenerator-jet.vercel.app/)
-<img src = "39274efe-9ed0-4ea9-b254-c37f5cf24a4a.jpg" width ="400px" alt ="Saikat is coding!!" align = "middle"></img>
+<img src = "https://github.com/saikatbishal/mini-projects/blob/main/qr-code.gif" width ="400px" alt ="Saikat is coding!!" align = "middle"></img>
 </div>
 
 ## [Rick and Morty Watching you](https://rick-morty-ruby.vercel.app/)
