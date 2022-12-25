@@ -32,6 +32,6 @@
 ## [Simple Calculator](https://react-calculator-saikat.netlify.app/)
 <img src = "39274efe-9ed0-4ea9-b254-c37f5cf24a4a.jpg" width ="400px" alt ="Saikat is coding!!" align = "middle"></img>
 </div>
-## [Take Small Notes](https://github.com/saikatbishal/notes-application-react)
-<img src = "39274efe-9ed0-4ea9-b254-c37f5cf24a4a.jpg" width ="400px" alt ="Saikat is coding!!" align = "middle"></img>
+## [Take Small Notes](https://save-notes-saikat.netlify.app/)
+<img src = "https://github.com/saikatbishal/mini-projects/blob/main/image.png" width ="400px" alt ="Saikat is coding!!" align = "middle"></img>
 </div>
