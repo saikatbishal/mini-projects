@@ -26,9 +26,12 @@
 </div>
 
 ## [Firebase Simple Chat Application](https://darling-froyo-e19ec2.netlify.app/)
-<img src = "39274efe-9ed0-4ea9-b254-c37f5cf24a4a.jpg" width ="400px" alt ="Saikat is coding!!" align = "middle"></img>
+<img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fhands-smartphone-chat-application-communication-discussion-conversation-short-messages-exchange-opinions-online-172611789.jpg&f=1&nofb=1&ipt=5368c3734b803816e6dacb81f3b140533249aaf0c18e46a933d19fe6e492bce2&ipo=images" width ="400px" alt ="Saikat is coding!!" align = "middle"></img>
 </div>
 
 ## [Simple Calculator](https://react-calculator-saikat.netlify.app/)
+<img src = "39274efe-9ed0-4ea9-b254-c37f5cf24a4a.jpg" width ="400px" alt ="Saikat is coding!!" align = "middle"></img>
+</div>
+## [Take Small Notes](https://github.com/saikatbishal/notes-application-react)
 <img src = "39274efe-9ed0-4ea9-b254-c37f5cf24a4a.jpg" width ="400px" alt ="Saikat is coding!!" align = "middle"></img>
 </div>
