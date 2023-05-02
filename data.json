@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "item": "Fan",
+    "description": "Hand fan for summer heat. Created a cooling effect around you by maintaining a cool breeze. It has an integrated mind-reading AI which knows exactly what temperature you'll love to have, and modulates the temperature to your liking.",
+    "image": "path1.png",
+    "price": 225
+  },
+  {
+    "id": "2",
+    "item": "Man",
+    "description": "This man uses the fan to cool you down so that you do not have to use the fan yourself",
+    "image": "path2.png",
+    "price": 525
+  },
+  {
+    "id": "3",
+    "item": "Tan",
+    "description": "The tan lotion is important in hot summer days to keep your skin shiny and smooth, prevents rashed on skin and deminished uneven skin tone",
+    "image": "path3.png",
+    "price": 825
+  },
+  {
+    "id": "4",
+    "item": "Can",
+    "description": "This Can makes your travel easier by enabling you to put all the above items, and entities safe and functioning for a long time, you will never have to worry about them ever again",
+    "image": "path4.png",
+    "price": 1125
+  },
+  {
+    "id": "5",
+    "item": "Van",
+    "description": "Here's the van. The intergalactic license service van which can take you to any place on any planet of any galaxy of the universe in no time (literally). It uses the brand new worm hole technology to take you and your items wherever you like. A perfect gift for toddlers over 3 galactic lifetime age.",
+    "image": "path5.png",
+    "price": 2125
+  }
+]
